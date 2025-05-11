@@ -1,3 +1,11 @@
+/* Body style */
+
+body {
+  background-color: #ffffff;
+  font-family: Arial, sans-serif;
+  text-align: left;
+  padding: 40px;
+}
 
 /* Heading style */
 h1 {
@@ -8,4 +16,9 @@ h1 {
 p {
   color: #555;
   font-size: 18px;
+}
+
+/* Unordered style*/
+ul {
+  color:rgb(0, 147, 147)
 }
